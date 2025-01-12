@@ -1,0 +1,15 @@
+site_name: Anin-Mkdocs
+theme:
+  name: material
+  palette:
+    primary: custom
+    font: false
+    logo: none
+  features:
+    - toc.integrate
+    - navigation.top
+extra_css:
+  - stylesheets/extra.css
+extra:
+repo_url: https://github.com/anindithb/anin-mkdocs
+repo_name: anin-mkdocs
